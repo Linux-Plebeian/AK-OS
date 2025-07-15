@@ -1,2 +1,10 @@
 # AK-OS
-AK-OS is a small OS with a gui(NYI), a command prompt, and a full functional filesystem, all in  >30kb
+Whats been implemented:
+  - bootloader
+  - C kernel
+  - Functional command prompt
+  - filesystem
+Working on:
+  - mouse support
+  - more file formats
+  - GUI
