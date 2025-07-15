@@ -4,6 +4,7 @@ Whats been implemented:
   - C kernel
   - Functional command prompt
   - filesystem
+
 Working on:
   - mouse support
   - more file formats
